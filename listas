@@ -1,0 +1,45 @@
+
+Analisis de datos:
+
+pais:{sinonimo1,sinonimo2,sinonimo3}
+
+a)entonces si encontramos un sinonimo agregamos ese pais
+
+b)completar las localitation faltantes,al tener los sinonimos, buscamos en el texto y si esta el sinonimo agregamos el pais en la localitacion
+
+tomas:
+de donde proviene la mayoria de los tweet?
+de donde proviene la mayori de los tweet falsos y verdaderos?(choropleths)?
+la londgitud de los textos y su veracidad?
+cuantas palabras tiene los tweet y ver su veracidad?
+
+yussef
+1)¿Mostrar los paises el top 5 cual su promedio de twwet falsos y verdaderos ?
+2)sean mayor al  promedio mundial?
+5)si un texto tiene #, arroba,http   buscar si sera mas veras o menos veras?
+8)segun el tipo de sentimiento que trasnnita el keyworda su relaicon con su veracidad=
+
+julian
+
+1)ver palabras del texto  que me puedan guiar en su veracidad?
+
+mora
+1)si los tweet mas o menos reales
+2)sin o con locacion y realacion con su veracidad?
+
+
+
+/*
+-agarrar los keywordar mas frecuentes, ejemplo los primero 49, y completar los los keyworda nullos si encuentra algun frecuente en el texto.
+
+1)¿Mostrar los paises el top 5 cual su promedio de twwet falsos y verdaderos sean mayor al  promedio mundial?
+
+2)ver la relacion entre la longitudad del keyword y el tamaño del texto?
+3)ver el tipo de palabra y su relacion con el tamaño del texto, ordenar por tamaño de texto
+4)segun el tipo de keyword(frase), podemmos ver si el tweet sera verdadero o falso?
+5)si un texto tiene #, arroba,http   buscar si sera mas veras o menos veras?
+6)longitud y cantidad de keywoed y su relacion con el target?
+7)que contienete tiene mas twett falso, verdaderos?
+8)segun el tipo de sentimiento que trasnnita el keyworda su relaicon con su veracidad=
+
+*/
